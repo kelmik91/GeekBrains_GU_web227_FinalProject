@@ -1,0 +1,56 @@
+[
+  {
+    "id_product": 1,
+    "product_name": "T-shift",
+    "price": 1600,
+    "img": "image/item1.png"
+  },
+  {
+    "id_product": 2,
+    "product_name": "Blouse",
+    "price": 3000,
+    "img": "image/item2.png"
+  },
+  {
+    "id_product": 3,
+    "product_name": "Jacket",
+    "price": 45600,
+    "img": "image/item3.png"
+  },
+  {
+    "id_product": 4,
+    "product_name": "Dress",
+    "price": 1000,
+    "img": "image/item4.png"
+  },
+  {
+    "id_product": 5,
+    "product_name": "Dress",
+    "price": 1000,
+    "img": "image/item5.png"
+  },
+  {
+    "id_product": 6,
+    "product_name": "Jacket",
+    "price": 1000,
+    "img": "image/item6.png"
+  },
+  {
+    "id_product": 7,
+    "product_name": "Trousers",
+    "price": 1000,
+    "img": "image/item7.png"
+  },
+  {
+    "id_product": 8,
+    "product_name": "Jacket",
+    "price": 1000,
+    "img": "image/item8.png"
+  },
+  {
+    "id_product": 9,
+    "product_name": "Jacket",
+    "price": 1000,
+    "img": "image/item8.png"
+  }
+]
